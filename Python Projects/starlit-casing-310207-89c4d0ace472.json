@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-casing-310207",
+  "private_key_id": "89c4d0ace472822dbd3d959a463bc9e6da0c3c56",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDfvToXi60kaPic\nwY33tMBpHiBEae7SKigg40nsqIVUPGktfEc/kLxWJYldEPtzqycuesEQKp7xGQ2e\nQEcEZhklUoELEPesdWoTgiJonOY5B5WxhFT4GdCf96v9kME0UcYli8SCGxFmhz5P\nebEdUcjrSAdXKZfkynH5J1VXPpjZ0TF7cnJtqRUrq+FUykO8ZDaH622aUF97AG63\nfIz2qx2EIYecUApTwNdu1ESlT/UhudiLPSDtJA4ksrrrBfxiuoa01o5ocGT/GEPv\ngYRqD5lvHdAYLtZam+n/dLkEzRIiWvjiexicnb0HjvSoNMjVwX+UHpPoQdAQ1yKK\nR8qDE3RfAgMBAAECggEAXYeok7Q3notlNn5xPxYoAyltWrwf8mpeGRV6zzxJdEPG\nwhV8YVW7bZXGfQm+3AU13WfCcmQmymnrN/bt2ShnJaN+P2aJ6uWwgNQ7VxkT4s5J\nZQqJTKfZ/y1VkCvloF3447QwYyU2mnI5+ZZJFJUeVUDolKbWEPYSPBIVymFoG1Fg\nLYEWKUimAHmEynils9C1VNAGpXPfdYGQ3e7kZEbWjRfpBYV8icF6C/nW1BjtosV1\nwrFjYTh5gcR8Iqaz429PfOiOJeko76OqCYBPZWnMm4CQYxeBZDTpr1DRPmhDJ52G\nahZ77Mky6hwKrxotz3ADCBm8CZ4Z2ZZbEtwmAjC9qQKBgQD8Dd2LRkomzgEqcCoa\nKw8K4DZdlk5Id8e7fdG6M5lvTRll/REjWZuc5QxxMDkdsxOiOF90aJkH91mWKyNO\nloQZXMzEEjdpcpPymIUzo60311dtKPdQoGG7hp51Cj50bOVUuGo0rY59YZx7d81e\nnuhqmtUdhwwscOddixMv7ocjOQKBgQDjPeLWUkIRloH+jLOPNwQ/dJTc1SpLXWvg\nB+9JH8fZNWM1cR4hoioW6xe+nspOIWdv6mVM65fJSHOJjdzL2138nNqIAJH6kKCd\nfA91TLAA+Gz6GYiKu+bXUhYYeqce7CGQ5mtOKCbeeXIOopjFp/UMsZc0kvwvsFMS\n+jaswG5cVwKBgQDWv4V7LSbuSuQJYUktxHPrgz4unGoUKiF9J+SxbVcT0i+KioO4\nh5cipK/mG/z9xd47fyYsyxVfCSpF3HkXcvwXk85OW2rkp59PuQz8Az8I7arqMVYN\nVqgOGtMUyuaNUV5OwVSTjy9wueKV+2t5a5B/i215297OWl91fpGZa/OtWQKBgA0G\nAvYdiMPRSGn6TmAq2wd3+wAdB2uCUyhnzAL4209LjAAIF5392UOu/ZFjMF0B9Reo\n611ZMz3J9TUw+DKGxAAyTSP2RGeD2nCsJ4aleoDTvAspY3XwBu7YOYP1o5ZWGiZf\nzk6QZonhk/Paxb6uPZEYrH3K3sEs7dXsmS2Vab3JAoGBAOTAU4lHaxipAnOOpyOK\npjAiffTZq2lJlFkdRHV5Qh2C4wfLzTnybpM/UTEZ1N8MsKXz2NBJJeyGRVjSn/gp\n3R7sW+rjsk7gxjnmGiENOl7bfHqOMvfOOsV+dphtGvHi2ehQcp8p9n1XQjuIO8Xs\n5nxndtjA1g+0mXfwqOMIsVZ0\n-----END PRIVATE KEY-----\n",
+  "client_email": "hj-cloud-admin@starlit-casing-310207.iam.gserviceaccount.com",
+  "client_id": "100549285344537237352",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hj-cloud-admin%40starlit-casing-310207.iam.gserviceaccount.com"
+}

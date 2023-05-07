@@ -1,0 +1,4 @@
+HTML and CSS are a good programming language
+I like python.
+Python is very easy.
+But I hate maths.

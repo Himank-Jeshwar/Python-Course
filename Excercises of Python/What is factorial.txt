@@ -1,0 +1,15 @@
+Factorial means the product of an integer and all the integers below it.
+
+Example 1 :-
+Factorial of 5 , how do you get it
+
+1 X 2 X 3 X 4 X 5 = 120 (until 5 you have to multiply)
+
+so 120 is the factorial of 5.
+
+Example 2 :-
+Factorial of 6 :-
+
+1 X 2 X 3 X 4 X 5 X 6 = 720 (until 6 you have to multiply)
+
+so 720 is the factorial of 6.

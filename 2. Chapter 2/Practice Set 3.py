@@ -1,0 +1,7 @@
+a= input("Enter Your School Name:") 
+b= input("Enter Your Class= ")
+c= input("Enter Your Name= ")
+print(a,b,c)
+print(type (a)) 
+print(type (b)) 
+print(type (c)) 
